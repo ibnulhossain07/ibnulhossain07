@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibnulhossain07
-- 👀 I’m interested in data science, data engineering
-- 🌱 I’m currently learning go, rust
+- 👀 I’m interested in data science, data engineering, flutter
+- 🌱 I’m currently learning go
 - 📫 How to reach me ibnulhossain07@gmail.com
 
 <!---
